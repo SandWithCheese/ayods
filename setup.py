@@ -20,6 +20,8 @@ setup(
     url="https://github.com/SandWithCheese/ayods",
     classifiers=[
         "Programming Language :: Python :: 3.8",
+        "License :: OSI Approved :: MIT License",
         "Operating System :: OS Independent",
     ],
+    license="MIT",
 )

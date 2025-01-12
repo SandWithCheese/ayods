@@ -52,3 +52,7 @@ options:
 - [ ] Add full documentation support
 - [ ] Add tests for all modules
 - [ ] Add support for custom templates
+
+## License
+
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
