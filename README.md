@@ -1,5 +1,9 @@
 # ayods
 
+[![Version](https://img.shields.io/pypi/v/ayods.svg)](https://pypi.org/project/ayods/)
+[![License](https://img.shields.io/pypi/l/ayods.svg)](#)
+[![Supported Python Versions](https://img.shields.io/pypi/pyversions/ayods.svg)](https://pypi.python.org/pypi/ayods)
+
 `ayods` is a Python CLI tool for initializing data science project structures with ease. Choose from minimal, standard, or professional templates to quickly set up your project.
 
 ## Features
