@@ -1,0 +1,77 @@
+# Byte-compiled files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Virtual environment
+venv/
+.env/
+.venv/
+env/
+ENV/
+env.bak/
+venv.bak/
+
+# Distribution and packaging
+*.egg
+*.egg-info/
+dist/
+build/
+*.egg-info/
+
+# Test and Coverage reports
+htmlcov/
+.tox/
+.nox/
+*.cover
+coverage.*
+.cache
+pytest_cache/
+nosetests.xml
+coverage.xml
+*.log
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# IDEs and Editors
+.vscode/
+.idea/
+*.swp
+*.swo
+*.bak
+*.tmp
+
+# System Files
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# Tool-specific
+# pipenv
+Pipfile.lock
+# poetry
+poetry.lock
+# pylint
+pylint.log
+# mypy
+.mypy_cache/
+
+# Docker
+*.dockerignore
+docker-compose.override.yml
+
+# GitHub
+*.patch
+*.diff
+
+# Environment variable files
+*.env
+.env.*
+
+# Temporary files
+*.tmp
+*.temp
+*.pid
+*.seed
+*.backup
